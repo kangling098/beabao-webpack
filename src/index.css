@@ -1,0 +1,8 @@
+body {
+    color: red;
+}
+.div1 {
+    width: 200px;
+    height: 200px;
+    background: url(./rihe.jpg) no-repeat center;
+}
